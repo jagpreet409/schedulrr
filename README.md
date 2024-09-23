@@ -1,5 +1,40 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+# Schedulrr
+
+Welcome to **Schedulrr**! This application is designed to simplify scheduling meetings with ease. Built with a modern tech stack, it offers a seamless user experience and integrates with popular services to keep your calendar organized.
+
+## Features
+
+- **Create and Manage Events**: Effortlessly create, edit, and delete events.
+- **Authentication**: Secure user authentication using [Clerk](https://clerk.com/).
+- **Google Calendar Integration**: Sync your events with Google Calendar for seamless scheduling.
+- **Responsive Design**: Built with [Tailwind CSS](https://tailwindcss.com/) for a clean and responsive interface.
+- **Beautiful UI**: Utilizing components from [ShadowCN UI](https://ui.shadcn.com/) for a polished look.
+
+## Tech Stack
+
+- **Frontend**: ReactJS
+- **Styling**: Tailwind CSS
+- **Authentication**: Clerk
+- **Database**: [Neon](https://console.neon.tech/)
+- **Deployment**: [Vercel](https://vercel.com)
+
+## Live Demo
+
+Experience Schedulrr live: [Schedulrr App](https://schedulrr-jagpreet.vercel.app/)
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/schedulrr.git
+   cd schedulrr
+
+
 ## Getting Started
 
 First, run the development server:
